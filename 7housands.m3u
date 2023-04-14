@@ -13,7 +13,7 @@ http://azxtv.com/hls/stream.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV.pe" tvg-logo="http://disfruta.net:80/images/dc8a95b0e7387273ace8006efde00bfe.png" group-title="PERU",PE | ATV 
+#EXTINF:-1 tvg-id="ATV.pe" url-epg="https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml" tvg-name="ATV.pe" tvg-logo="http://disfruta.net:80/images/dc8a95b0e7387273ace8006efde00bfe.png" group-title="PERU",PE | ATV 
 http://disfruta.net:80/linuzcpa/E3N8GJ9LxJ/524
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
