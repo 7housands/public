@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="E-SPORTS" tvg-logo="https://logosbynick.com/wp-content/uploads/2020/06/esports-logo.png" group-title="General",E-SPORTS
+#EXTINF:-1 tvg-id="E-SPORTS" tvg-logo="https://logosbynick.com/wp-content/uploads/2020/06/esports-logo.png" group-title="Deportes",E-SPORTS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1681522918/ei/hqw5ZMzQAcSSkASvgpvoDg/ip/200.106.124.223/id/2X2ukg55p5s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIhJeg72_w6jchiBK1E3G2eiXxd0gxmJYSL-L4nYLtpTAiEAo6cqvRT0ikZDyUwoVKEAwiwZBR_w561b4DjSeLsQSnk%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="General",Agro TV (Apurimac) [Not 24/7]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
