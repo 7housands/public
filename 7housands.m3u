@@ -13,7 +13,7 @@ http://azxtv.com/hls/stream.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="General",AsiriTV (Lima) (720p) [Not 24/7]
 https://video2.lhdserver.es/asiritv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | ATV " tvg-logo="http://disfruta.net:80/images/dc8a95b0e7387273ace8006efde00bfe.png" group-title="PERU",PE | ATV 
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV.pe" tvg-logo="http://disfruta.net:80/images/dc8a95b0e7387273ace8006efde00bfe.png" group-title="PERU",PE | ATV 
 http://disfruta.net:80/linuzcpa/E3N8GJ9LxJ/524
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="General",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
@@ -105,7 +105,7 @@ http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7b
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="General",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | LATINA " tvg-logo="https://pbs.twimg.com/profile_images/1124082382477328384/8D1takJ-_400x400.png" group-title="PERU",PE | LATINA 
+#EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://pbs.twimg.com/profile_images/1124082382477328384/8D1takJ-_400x400.png" group-title="PERU",PE | LATINA 
 http://disfruta.net:80/linuzcpa/E3N8GJ9LxJ/529
 #EXTINF:-1 tvg-id="LotPlusTV.pe" tvg-logo="https://i.imgur.com/gBbCDCL.png" group-title="General",LotPlus TV (Chiclayo) (720p) [Not 24/7]
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
@@ -147,9 +147,7 @@ https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka (720p)
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | PANAMERICANA HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062011/captura_de_pantalla_2011-06-24_a_las_18.16.54.png?itok=kTyv4Wsb" group-title="PERU",PE | PANAMERICANA HD
-http://disfruta.net:80/linuzcpa/E3N8GJ9LxJ/531
-#EXTINF:-1 xui-id="1140" tvg-id="PE | PANAMERICANA *FHD" tvg-name="PE | PANAMERICANA *FHD" group-title="PERU",PE | PANAMERICANA
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062011/captura_de_pantalla_2011-06-24_a_las_18.16.54.png?itok=kTyv4Wsb" group-title="PERU",PE | PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="PaxTV.pe" tvg-logo="https://i.imgur.com/1E0nXwR.png" group-title="Religion",Pax TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
@@ -278,7 +276,7 @@ https://multimedia.tmcreativos.com:1936/visionMusica/visionMusica/playlist.m3u8
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="Noticias",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PE | WILLAX HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/5af59130c258b4b0159b1ab5/1528723845215-MBIUGH3W0TZMPXPJYEGH/ke17ZwdGBToddI8pDm48kLYO53DNTWiogOKDMd2pXzNZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dVqjJOA2bbs_Tozk7Nfgn76XL43JZOkPCEshooDSeRLTlrDit8BQyuAgSCshm0xaQ/Willax-Logo.png" group-title="PERU",PE | WILLAX HD
+#EXTINF:-1 tvg-id="WillaxTV.pe" tvg-name="Willax TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/5af59130c258b4b0159b1ab5/1528723845215-MBIUGH3W0TZMPXPJYEGH/ke17ZwdGBToddI8pDm48kLYO53DNTWiogOKDMd2pXzNZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7dVqjJOA2bbs_Tozk7Nfgn76XL43JZOkPCEshooDSeRLTlrDit8BQyuAgSCshm0xaQ/Willax-Logo.png" group-title="PERU",PE | WILLAX HD
 http://disfruta.net:80/linuzcpa/E3N8GJ9LxJ/6438
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
