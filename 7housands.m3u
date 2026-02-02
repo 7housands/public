@@ -15,8 +15,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ (Cuzco) (720p) [Not 24/7]
-https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Noticias",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Deportes",Esports Max [Not 24/7]
