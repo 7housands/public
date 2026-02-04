@@ -1,5 +1,25 @@
 #EXTM3U
 
+# ==========================================================================
+# GUÍA DE MANTENIMIENTO Y FORMATO PARA SMART TV (OTTPlayer)
+# ==========================================================================
+# 1. FORMATO ESTÁNDAR:
+#    #EXTINF:-1 tvg-id="ID" tvg-logo="URL_LOGO" group-title="CATEGORIA",Nombre
+#    URL_DEL_STREAMING
+#
+# 2. REGLAS DE ORO PARA EVITAR ERRORES EN LA TV:
+#    - LA COMA: Siempre debe haber una coma [,] antes del nombre del canal.
+#    - COMILLAS: Todos los valores de los atributos deben ir entre [" "].
+#    - CODIFICACIÓN: Guarda siempre el archivo como UTF-8 para evitar errores con tildes.
+#    - SIN ESPACIOS EN ATRIBUTOS: En tvg-id="ATV.pe", evita usar espacios.
+#
+# 3. NOTA SOBRE COMPATIBILIDAD:
+#    - No usar #EXTVLCOPT (comandos de VLC) ya que bloquean la carga en Smart TV.
+#    - Si un canal de GitHub no carga, verifica que el enlace sea el 'RAW'.
+# ==========================================================================
+
+# --- INICIO DE LISTA ---
+
 # --- PERÚ (NACIONALES Y PRINCIPALES) ---
 #EXTINF:-1 tvg-id="ATV" tvg-logo="http://disfruta.net:80/images/dc8a95b0e7387273ace8006efde00bfe.png" group-title="PERU",ATV
 https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/ts:abr.m3u8
